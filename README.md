@@ -93,13 +93,18 @@ Chromatin accessibility, <i>cis</i>-regulatory grammar, and its evolution across
 
 <sub>† co-first author · Full list on my <a href="https://yaoj-bioin.github.io/Jie_academic_homepage/#publications">homepage</a> / <a href="https://scholar.google.com/citations?user=CXUsnsAAAAAJ">Google Scholar</a></sub>
 
-| | |
-|:--|:--|
-| ![bioRxiv](https://img.shields.io/badge/bioRxiv-2026-b31b1b?style=flat-square) | **Yao J**, Li J, Zhang X, Li X, Marand AP, Pickering E, Schmitz RJ. *Sequence-based modeling of plant epigenomes reveals cell-type-specific cis-regulatory grammar.* [DOI](https://doi.org/10.64898/2026.07.22.740070) · [peagent.org](https://peagent.org/) |
-| ![TIPS](https://img.shields.io/badge/Trends%20Plant%20Sci-2025-2e7d32?style=flat-square) | **Yao J**, Marand AP, Bai Y, Schmitz RJ, Fan L. *Advances in plant spatial multi-omics data analysis.* [DOI](https://doi.org/10.1016/j.tplants.2025.10.005) |
-| ![Dev Cell](https://img.shields.io/badge/Developmental%20Cell-2024-1565c0?style=flat-square) | **Yao J†**, Chu Q†, Guo X†, Shao W†, et al., Liu H, Fan L. *Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germination.* [DOI](https://doi.org/10.1016/j.devcel.2024.05.016) |
-| ![bioRxiv](https://img.shields.io/badge/bioRxiv-2024-b31b1b?style=flat-square) | **Yao J**, Shang N, Chen H, et al., Chu Q. *Sub-clustering, marker identification and multi-omics integration influenced by protoplasting in plant scRNA-seq data analysis.* [DOI](https://doi.org/10.1101/2024.12.14.628512) |
-| ![JID](https://img.shields.io/badge/J%20Invest%20Dermatol-2022-6a1b9a?style=flat-square) | Zheng Y†, **Yao J†**, et al., Fan L. *A manually curated database and analysis platform of cell markers of scars.* [DOI](https://doi.org/10.1016/j.jid.2022.10.008) |
+<table>
+<tr><td nowrap valign="top"><img src="https://img.shields.io/badge/bioRxiv-2026-b31b1b?style=flat-square" alt="bioRxiv 2026"/></td>
+<td><b>Yao J</b>, Li J, Zhang X, Li X, Marand AP, Pickering E, Schmitz RJ. <i>Sequence-based modeling of plant epigenomes reveals cell-type-specific cis-regulatory grammar.</i> <a href="https://doi.org/10.64898/2026.07.22.740070">DOI</a> · <a href="https://peagent.org/">peagent.org</a></td></tr>
+<tr><td nowrap valign="top"><img src="https://img.shields.io/badge/Trends%20Plant%20Sci-2025-2e7d32?style=flat-square" alt="Trends in Plant Science 2025"/></td>
+<td><b>Yao J</b>, Marand AP, Bai Y, Schmitz RJ, Fan L. <i>Advances in plant spatial multi-omics data analysis.</i> <a href="https://doi.org/10.1016/j.tplants.2025.10.005">DOI</a></td></tr>
+<tr><td nowrap valign="top"><img src="https://img.shields.io/badge/Dev%20Cell-2024-1565c0?style=flat-square" alt="Developmental Cell 2024"/></td>
+<td><b>Yao J†</b>, Chu Q†, Guo X†, Shao W†, et al., Liu H, Fan L. <i>Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germination.</i> <a href="https://doi.org/10.1016/j.devcel.2024.05.016">DOI</a></td></tr>
+<tr><td nowrap valign="top"><img src="https://img.shields.io/badge/bioRxiv-2024-b31b1b?style=flat-square" alt="bioRxiv 2024"/></td>
+<td><b>Yao J</b>, Shang N, Chen H, et al., Chu Q. <i>Sub-clustering, marker identification and multi-omics integration influenced by protoplasting in plant scRNA-seq data analysis.</i> <a href="https://doi.org/10.1101/2024.12.14.628512">DOI</a></td></tr>
+<tr><td nowrap valign="top"><img src="https://img.shields.io/badge/J%20Invest%20Dermatol-2022-6a1b9a?style=flat-square" alt="JID 2022"/></td>
+<td>Zheng Y†, <b>Yao J†</b>, et al., Fan L. <i>A manually curated database and analysis platform of cell markers of scars.</i> <a href="https://doi.org/10.1016/j.jid.2022.10.008">DOI</a></td></tr>
+</table>
 
 <sub>Also contributed to: *The Plant Cell* 2026 · *Nature Plants* 2026 (scPlantReg) · *Molecular Plant* 2025 ×2 · *Briefings in Bioinformatics* 2025 · *Molecular Plant* 2021 (PlantscRNAdb)</sub>
 
@@ -135,5 +140,4 @@ Chromatin accessibility, <i>cis</i>-regulatory grammar, and its evolution across
 <sub>🏅 3× National Scholarship · Outstanding Doctoral Graduate, ZJU 2025 · Reviewer for <i>Communications Biology</i></sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Athens%2C%20GA%2C%20USA-0b1326?style=flat-square&logo=googlemaps&logoColor=34d399" alt="Athens, GA"/>
-<img src="https://komarev.com/ghpvc/?username=YAOJ-bioin&style=flat-square&color=7aa2f7&label=visitors" alt="visitors"/>
 </div>
